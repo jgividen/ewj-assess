@@ -1,0 +1,722 @@
+[
+  {
+    "Question": "I am creative and artistic.",
+    "Type": 4
+  },
+  {
+    "Question": "I often feel different than others, like I am on the outside looking in.",
+    "Type": 4
+  },
+  {
+    "Question": "My mood could be described as melancholy.",
+    "Type": 4
+  },
+  {
+    "Question": "I find myself feeling overly sensitive.",
+    "Type": 4
+  },
+  {
+    "Question": "Something seems to be missing in life.",
+    "Type": 4
+  },
+  {
+    "Question": "The relationships, accomplishments, and lifestyles of others make me envious.",
+    "Type": 4
+  },
+  {
+    "Question": "In environments where I can express my creativity, I tend to thrive.",
+    "Type": 4
+  },
+  {
+    "Question": "I become withdrawn and self-conscious when I feel misunderstood.",
+    "Type": 4
+  },
+  {
+    "Question": "I am a romantic person.",
+    "Type": 4
+  },
+  {
+    "Question": "I often find myself caught up in my imagination.",
+    "Type": 4
+  },
+  {
+    "Question": "I enjoy having unique clothing and interests that no one else has heard of.",
+    "Type": 4
+  },
+  {
+    "Question": "The more rare something is, the more I like it.",
+    "Type": 4
+  },
+  {
+    "Question": "When I am stressed, I am moody and self-absorbed.",
+    "Type": 4
+  },
+  {
+    "Question": "When I am not stressed, I am compassionate and expressive with others.",
+    "Type": 4
+  },
+  {
+    "Question": "Even the slightest criticism feels absolutely crushing to me.",
+    "Type": 4
+  },
+  {
+    "Question": "I find myself searching for the meaning of life.",
+    "Type": 4
+  },
+  {
+    "Question": "I dread being called ordinary.",
+    "Type": 4
+  },
+  {
+    "Question": "I desire for people to think I have good taste.",
+    "Type": 4
+  },
+  {
+    "Question": "I can behave dramatically at times.",
+    "Type": 4
+  },
+  {
+    "Question": "Feelings (my own and those of others) are very important to me.",
+    "Type": 4
+  },
+  {
+    "Question": "I am a hard worker and am very responsible.",
+    "Type": 6
+  },
+  {
+    "Question": "I am often prepared for any scenario to play out.",
+    "Type": 6
+  },
+  {
+    "Question": "I find myself questioning the motives of others.",
+    "Type": 6
+  },
+  {
+    "Question": "I feel very anxious whenever I have to make decisions on my own.",
+    "Type": 6
+  },
+  {
+    "Question": "Safety & security are very important to me.",
+    "Type": 6
+  },
+  {
+    "Question": "I doubt my opinion of myself.",
+    "Type": 6
+  },
+  {
+    "Question": "Being considered part of a group is very important to my identity.",
+    "Type": 6
+  },
+  {
+    "Question": "I believe that everything is going to be alright for others but find it hard to believe that for myself.",
+    "Type": 6
+  },
+  {
+    "Question": "My friends and family provide all the support that I need.",
+    "Type": 6
+  },
+  {
+    "Question": "I tend to overreact to very minor inconveniences.",
+    "Type": 6
+  },
+  {
+    "Question": "If I haven't known you for a very long time, I have a hard time trusting you.",
+    "Type": 6
+  },
+  {
+    "Question": "I am always keeping my eye out for unsafe people and situations.",
+    "Type": 6
+  },
+  {
+    "Question": "When I am stressed, I become suspicious and defensive.",
+    "Type": 6
+  },
+  {
+    "Question": "When I am not stressed, I am caring, warm, and loyal.",
+    "Type": 6
+  },
+  {
+    "Question": "If I am uncomfortable in a situation, I can become very controlling.",
+    "Type": 6
+  },
+  {
+    "Question": "When I am feeling relaxed I am a very friendly person.",
+    "Type": 6
+  },
+  {
+    "Question": "I often question how committed the other person is in our friendship or relationship.",
+    "Type": 6
+  },
+  {
+    "Question": "I find ways to overcome my fears when necessary.",
+    "Type": 6
+  },
+  {
+    "Question": "I often feel like I worry a lot more than everyone else does.",
+    "Type": 6
+  },
+  {
+    "Question": "I am desperate to feel social support and security.",
+    "Type": 6
+  },
+  {
+    "Question": "I find myself doing whatever it takes to keep the peace.",
+    "Type": 9
+  },
+  {
+    "Question": "I am laid back and optimistic.",
+    "Type": 9
+  },
+  {
+    "Question": "I am a comforting person who can listen patiently.",
+    "Type": 9
+  },
+  {
+    "Question": "I tend to brush problems or difficult situations under the rug instead of dealing with them head on.",
+    "Type": 9
+  },
+  {
+    "Question": "It is easy for me to relax, take naps, and tune out.",
+    "Type": 9
+  },
+  {
+    "Question": "I often let everyone else make the decisions because \"anything sounds fine\".",
+    "Type": 9
+  },
+  {
+    "Question": "The more structure in place, the more likely I am to meet deadlines and expectations.",
+    "Type": 9
+  },
+  {
+    "Question": "Sometimes I forget the details of a situation or expectation of me.",
+    "Type": 9
+  },
+  {
+    "Question": "I find myself looking peaceful on the outside even when I am angry on the inside.",
+    "Type": 9
+  },
+  {
+    "Question": "I need breaks often throughout my day in order to renew my energy.",
+    "Type": 9
+  },
+  {
+    "Question": "I enjoy spending more time at home than anywhere else.",
+    "Type": 9
+  },
+  {
+    "Question": "I am often looking for similarities as a way of finding harmony and peace.",
+    "Type": 9
+  },
+  {
+    "Question": "I become stubborn when someone nags me for an answer.",
+    "Type": 9
+  },
+  {
+    "Question": "I am more likely to handle the simple tasks first in order to put off the more difficult ones.",
+    "Type": 9
+  },
+  {
+    "Question": "When I am stressed, I become passive-aggressive and forgetful.",
+    "Type": 9
+  },
+  {
+    "Question": "When I am not stressed, I am patient, open-minded, and receptive to others.",
+    "Type": 9
+  },
+  {
+    "Question": "If I feel like someone won't get off my back, I will just agree with whatever they say.",
+    "Type": 9
+  },
+  {
+    "Question": "If I am expected to make a lot of decisions, I become angry and anxious.",
+    "Type": 9
+  },
+  {
+    "Question": "I do not like putting myself first and am often called the \"nice guy\".",
+    "Type": 9
+  },
+  {
+    "Question": "Wanting to feel at peace in my life is my main motivation.",
+    "Type": 9
+  },
+  {
+    "Question": "Most people have no idea how emotional I really am.",
+    "Type": 2
+  },
+  {
+    "Question": "The most important parts of my life are my relationships with others.",
+    "Type": 2
+  },
+  {
+    "Question": "I love making people feel cared for, supported, and loved.",
+    "Type": 2
+  },
+  {
+    "Question": "Boundaries are difficult for me and I have trouble saying no.",
+    "Type": 2
+  },
+  {
+    "Question": "I would much rather give than receive.",
+    "Type": 2
+  },
+  {
+    "Question": "If I don't feel like people want to be close to me, I feel rejected and hurt.",
+    "Type": 2
+  },
+  {
+    "Question": "I want to help others become successful and want to feel indispensable in their lives.",
+    "Type": 2
+  },
+  {
+    "Question": "I enjoy feeling deeply connected with others.",
+    "Type": 2
+  },
+  {
+    "Question": "Instead of expressing my own negative feelings or emotions, I am more likely to focus on others.",
+    "Type": 2
+  },
+  {
+    "Question": "Being appreciated for what I do for others is very important to me.",
+    "Type": 2
+  },
+  {
+    "Question": "I follow through on commitments to other people even if it means I sacrifice another part of me.",
+    "Type": 2
+  },
+  {
+    "Question": "I need to be told that I am wanted and loved.",
+    "Type": 2
+  },
+  {
+    "Question": "I often become a safe place for people to share their troubles.",
+    "Type": 2
+  },
+  {
+    "Question": "Maintaining relationships consumes a large part of every day.",
+    "Type": 2
+  },
+  {
+    "Question": "When I am stressed, I become possessive and demanding.",
+    "Type": 2
+  },
+  {
+    "Question": "When I am not stressed, I am caring, loving, and supportive.",
+    "Type": 2
+  },
+  {
+    "Question": "I typically know what I need to do in order to get people to like me.",
+    "Type": 2
+  },
+  {
+    "Question": "When I am not appreciated for what I've done, I find myself acting like a martyr.",
+    "Type": 2
+  },
+  {
+    "Question": "I usually feel like my desire to help others comes from a pure place and without a hidden agenda.",
+    "Type": 2
+  },
+  {
+    "Question": "My need for feeling appreciated is my main motivation.",
+    "Type": 2
+  },
+  {
+    "Question": "If I have an idea, I am really good at marketing it and selling it to others to convince them it's good.",
+    "Type": 3
+  },
+  {
+    "Question": "I enjoy multitasking and have no problem doing 2-3 things at one time.",
+    "Type": 3
+  },
+  {
+    "Question": "I am confident in my abilities and enjoy coming in first place.",
+    "Type": 3
+  },
+  {
+    "Question": "I often place work as the top priority in my life.",
+    "Type": 3
+  },
+  {
+    "Question": "For as long as I can remember, I have been goal-oriented.",
+    "Type": 3
+  },
+  {
+    "Question": "Making a good first impression is very important to me.",
+    "Type": 3
+  },
+  {
+    "Question": "I would rather turn in the project first than be the one who follows every step perfectly.",
+    "Type": 3
+  },
+  {
+    "Question": "Being around people is more enjoyable for me than being alone.",
+    "Type": 3
+  },
+  {
+    "Question": "There is always a most effective way to do a job, and I can quickly find out what that is.",
+    "Type": 3
+  },
+  {
+    "Question": "I have taken on too many commitments in order to impress others.",
+    "Type": 3
+  },
+  {
+    "Question": "Being in touch with my emotions is not something that comes naturally to me.",
+    "Type": 3
+  },
+  {
+    "Question": "I tend to be very competitive and believe competition is a good thing.",
+    "Type": 3
+  },
+  {
+    "Question": "I value climbing the ladder at work and desire to be at the top of the organization.",
+    "Type": 3
+  },
+  {
+    "Question": "When I am stressed, I tend to oversell or self-promote my abilities more than usual.",
+    "Type": 3
+  },
+  {
+    "Question": "When I am not stressed, I am charming, honest, and competent.",
+    "Type": 3
+  },
+  {
+    "Question": "Focusing on negative emotions only keeps me from getting the job done efficiently.",
+    "Type": 3
+  },
+  {
+    "Question": "I can behave like a chameleon, molding myself to fit into different environments and situations comfortably.",
+    "Type": 3
+  },
+  {
+    "Question": "If I think someone deserves it, I will be their best champion and will do anything to help them succeed.",
+    "Type": 3
+  },
+  {
+    "Question": "I don't understand people who don't want to finish first.",
+    "Type": 3
+  },
+  {
+    "Question": "Being recognized for my achievements and success is a great motivation for me.",
+    "Type": 3
+  },
+  {
+    "Question": "I do not know how to behave around emotional people.",
+    "Type": 5
+  },
+  {
+    "Question": "Figuring out how things work they way they do is something I really enjoy.",
+    "Type": 5
+  },
+  {
+    "Question": "At social events, I find myself feeling withdrawn and quiet.",
+    "Type": 5
+  },
+  {
+    "Question": "I am much more comfortable expressing ideas and facts than I am having a conversation about feelings.",
+    "Type": 5
+  },
+  {
+    "Question": "If I'm not sure exactly what I want to say, I may hesitate and need a minute to gather my thoughts.",
+    "Type": 5
+  },
+  {
+    "Question": "Confrontations are extremely uncomfortable for me.",
+    "Type": 5
+  },
+  {
+    "Question": "If I have a personal interest or hobby, I prefer to pursue it alone.",
+    "Type": 5
+  },
+  {
+    "Question": "I am sensitive to criticism but work hard to make sure no one realizes that.",
+    "Type": 5
+  },
+  {
+    "Question": "Living a frugal lifestyle provides security and independence that I need.",
+    "Type": 5
+  },
+  {
+    "Question": "If I want people to know how I feel or think about a situation, I will tell them.",
+    "Type": 5
+  },
+  {
+    "Question": "It's not always easy for people to understand my train of thought or interpretation of a situation.",
+    "Type": 5
+  },
+  {
+    "Question": "Having personal space and privacy is very important to me.",
+    "Type": 5
+  },
+  {
+    "Question": "People who speak or behave unintelligently annoy me.",
+    "Type": 5
+  },
+  {
+    "Question": "I have an opinion, an idea, and my own theory about almost everything.",
+    "Type": 5
+  },
+  {
+    "Question": "If I am socializing with others, it's because they have the same interests as I do.",
+    "Type": 5
+  },
+  {
+    "Question": "When I am stressed, I become distant, pessimistic and stubborn.",
+    "Type": 5
+  },
+  {
+    "Question": "When I am not stressed, I am sensitive, objective, and insightful.",
+    "Type": 5
+  },
+  {
+    "Question": "At times I find myself speaking and behaving as though I am intellectually superior.",
+    "Type": 5
+  },
+  {
+    "Question": "Being self-sufficient is vital to me.",
+    "Type": 5
+  },
+  {
+    "Question": "If I need to make a decision, I only rely on facts, never emotions.",
+    "Type": 5
+  },
+  {
+    "Question": "I feel optimistic about the future and feel that life is meant to be enjoyed.",
+    "Type": 7
+  },
+  {
+    "Question": "I am playful and really like to talk.",
+    "Type": 7
+  },
+  {
+    "Question": "I enjoy keeping my options open when it comes to weekend plans, waiting to see if something better pops up.",
+    "Type": 7
+  },
+  {
+    "Question": "I am a cheerleader for the people around me, always trying to pump them up.",
+    "Type": 7
+  },
+  {
+    "Question": "Finding new, exciting, and different interests is stimulating for me.",
+    "Type": 7
+  },
+  {
+    "Question": "I want to contribute to the world in a positive way.",
+    "Type": 7
+  },
+  {
+    "Question": "I have the ability to make other people laugh and have a good time.",
+    "Type": 7
+  },
+  {
+    "Question": "I have been described as hyperactive because of my need to always be on the go.",
+    "Type": 7
+  },
+  {
+    "Question": "I can do many things fairly well and enjoy trying new activities.",
+    "Type": 7
+  },
+  {
+    "Question": "I avoid participating in things that feel boring and mundane.",
+    "Type": 7
+  },
+  {
+    "Question": "I do things in excessive ways and always want more.",
+    "Type": 7
+  },
+  {
+    "Question": "I feel very uncomfortable around possessive people.",
+    "Type": 7
+  },
+  {
+    "Question": "When I am stressed, I behave rebellious an inappropriately.",
+    "Type": 7
+  },
+  {
+    "Question": "When I am not stressed, I am optimistic, fun-loving, and imaginative.",
+    "Type": 7
+  },
+  {
+    "Question": "I am very enthusiastic when I'm working on a project I am passionate about.",
+    "Type": 7
+  },
+  {
+    "Question": "I try to avoid dealing with pain and suffering whenever possible.",
+    "Type": 7
+  },
+  {
+    "Question": "I feel like there is never enough time to do all the fun things I want to do.",
+    "Type": 7
+  },
+  {
+    "Question": "I do not enjoy spending time around negative or pessimistic people.",
+    "Type": 7
+  },
+  {
+    "Question": "I feel impatient when I can't finish a project in a timely manner.",
+    "Type": 7
+  },
+  {
+    "Question": "I am always eager and ready to experience more in life.",
+    "Type": 7
+  },
+  {
+    "Question": "I always stand up for what I want and need in life.",
+    "Type": 8
+  },
+  {
+    "Question": "I am a natural leader and people look to me for direction.",
+    "Type": 8
+  },
+  {
+    "Question": "I work hard to take care of my own needs and want to see others do the same for themselves.",
+    "Type": 8
+  },
+  {
+    "Question": "People who are indecisive and indirect make me feel impatient.",
+    "Type": 8
+  },
+  {
+    "Question": "I like to compete and win and behave assertively in those environments.",
+    "Type": 8
+  },
+  {
+    "Question": "I always root for the underdog and am protective of the people I love.",
+    "Type": 8
+  },
+  {
+    "Question": "I thrive when I am the boss or am in charge of a situation.",
+    "Type": 8
+  },
+  {
+    "Question": "I expect others to work hard to earn my trust and loyalty.",
+    "Type": 8
+  },
+  {
+    "Question": "I enjoy taking risks.",
+    "Type": 8
+  },
+  {
+    "Question": "I know how to get things done and I am a hard worker.",
+    "Type": 8
+  },
+  {
+    "Question": "I enjoy a heated debate and loved being challenged.",
+    "Type": 8
+  },
+  {
+    "Question": "Earning the respect of others is more important to me than being liked.",
+    "Type": 8
+  },
+  {
+    "Question": "I believe I am the most decisive person in the group and will take charge.",
+    "Type": 8
+  },
+  {
+    "Question": "I show tough love, tell it like it is, and am proud of my directness.",
+    "Type": 8
+  },
+  {
+    "Question": "When I am stressed, I can come off as insensitive, controlling, and rebellious.",
+    "Type": 8
+  },
+  {
+    "Question": "When I am not stressed, I am helpful, energetic, and self-confident.",
+    "Type": 8
+  },
+  {
+    "Question": "Most of the time, any emotion other than anger is difficult for me to express.",
+    "Type": 8
+  },
+  {
+    "Question": "I let my guard down and am more sensitive with people who have earned my trust.",
+    "Type": 8
+  },
+  {
+    "Question": "In an attempt to have fun and find pleasure, I find myself going overboard at times.",
+    "Type": 8
+  },
+  {
+    "Question": "Being in control of my life in order to protect myself and my loved ones is what motivates me most.",
+    "Type": 8
+  },
+  {
+    "Question": "I strive for perfection and have a strong sense of right and wrong.",
+    "Type": 1
+  },
+  {
+    "Question": "I am self-disciplined and fair.",
+    "Type": 1
+  },
+  {
+    "Question": "I value personal integrity more than anything.",
+    "Type": 1
+  },
+  {
+    "Question": "I am much more likely to think and act logically as opposed to emotionally.",
+    "Type": 1
+  },
+  {
+    "Question": "My life tends to lack spontaneity and have been described as being too serious at times.",
+    "Type": 1
+  },
+  {
+    "Question": "I am extremely critical of myself and others and have been called judgmental at times.",
+    "Type": 1
+  },
+  {
+    "Question": "I can quickly evaluate a situation and determine what could have been done better.",
+    "Type": 1
+  },
+  {
+    "Question": "I expect myself to be perfect.",
+    "Type": 1
+  },
+  {
+    "Question": "Being well-organized and on-time is important to me.",
+    "Type": 1
+  },
+  {
+    "Question": "Morals and ethics are more important than compassion and understanding.",
+    "Type": 1
+  },
+  {
+    "Question": "I am more concerned with what needs to be fixed and tend to see a glass as half empty.",
+    "Type": 1
+  },
+  {
+    "Question": "Details are very important to me and I don't consider being a perfectionist a bad thing.",
+    "Type": 1
+  },
+  {
+    "Question": "When I am stressed, I am demanding, inflexible, and intolerant.",
+    "Type": 1
+  },
+  {
+    "Question": "When I am not stressed, I am reasonable, rational, and accepting of others.",
+    "Type": 1
+  },
+  {
+    "Question": "I fear being criticized or judged by others.",
+    "Type": 1
+  },
+  {
+    "Question": "I can carry a grudge for a long time and have difficulty with forgiveness.",
+    "Type": 1
+  },
+  {
+    "Question": "I see things in black and white and do not understand how something could be described as gray.",
+    "Type": 1
+  },
+  {
+    "Question": "I have a hard time admitting I am wrong.",
+    "Type": 1
+  },
+  {
+    "Question": "I am frustrated when people break rules even when it doesn't impact me directly.",
+    "Type": 1
+  },
+  {
+    "Question": "Being self-disciplined, correct, and fair motivates my behavior, words, and actions.",
+    "Type": 1
+  }
+]

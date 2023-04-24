@@ -1,5 +1,5 @@
 <template>
-    <div class="p-4 mx-auto">
+    <div class="mx-auto">
         <div v-if="currentIndex !== null && currentIndex + 1 <= questions.length">
             <TransitionGroup tag="div" class="relative">
                 <div v-for="question, index in questions" :key="question.Id" v-show="index === currentIndex" class="absolute top-0">
@@ -11,6 +11,7 @@
             </TransitionGroup>
         </div>
         <div v-else>
+            <div class="mb-4 text-3xl flex justify-center bg-gray-200 py-2 mb-4">Your Result</div>
             <div class="mb-4 text-4xl flex justify-center">Type {{ enneagramType }}</div>
             <TypeDescription :enneagramType="enneagramType"></TypeDescription>
         </div>
@@ -67,7 +68,7 @@ const enneagramType = computed(() => {
 });
 
 onMounted(() => {
-    const numberPerType = 10;
+    const numberPerType = 1;
     const allQuestionsWithIds = allQuestions.map((question: Question, index: number) => {
         return {
             ...question,

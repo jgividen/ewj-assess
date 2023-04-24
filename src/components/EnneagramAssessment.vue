@@ -1,5 +1,5 @@
 <template>
-    <div class="p-4 mx-auto" v-show="isVisible">
+    <div class="p-4 mx-auto">
         <div v-if="currentIndex !== null && currentIndex + 1 <= questions.length">
             <TransitionGroup tag="div" class="relative">
                 <div v-for="question, index in questions" :key="question.Id" v-show="index === currentIndex" class="absolute top-0">
@@ -32,7 +32,6 @@ interface Question {
 
 const questions = ref<Question[]>([]);
 const currentIndex = ref<number | null>(null);
-const isVisible = ref(false);
 
 const nextQuestion = () => {
     if (currentIndex.value === null) {
@@ -68,12 +67,6 @@ const enneagramType = computed(() => {
 });
 
 onMounted(() => {
-    const urlParams = new URLSearchParams(location.search);
-    if (urlParams.get('ea') === 'true') {
-        isVisible.value = true;
-    } else {
-        return;
-    }
     const numberPerType = 10;
     const allQuestionsWithIds = allQuestions.map((question: Question, index: number) => {
         return {

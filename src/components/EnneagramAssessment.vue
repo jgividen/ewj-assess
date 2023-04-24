@@ -67,7 +67,7 @@ const enneagramType = computed(() => {
 });
 
 onMounted(() => {
-    const numberPerType = 1;
+    const numberPerType = 10;
     const allQuestionsWithIds = allQuestions.map((question: Question, index: number) => {
         return {
             ...question,
